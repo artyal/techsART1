@@ -1,10 +1,10 @@
 # techsART1https://github.com/artyal/techsART1
+these are techstart projects
 
 ### 360
 
-<iframe src="https://teliportme.com/embed/1447255?ar=-10&sfc=t&lp=lt" frameBorder="0" scrolling="no" height="500" width="100%" allowfullscreen></iframe>
-
+<script src='//vizor.io/static/scripts/vizor-360-embed.js' data-vizorurl='//vizor.io/embed/alharris/practice'></script>
 
 Project description
 
-photo 
+image from classroom
